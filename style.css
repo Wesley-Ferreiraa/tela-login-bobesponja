@@ -14,6 +14,7 @@ img{
     height: 100%;
     border-top-left-radius: 3%;
     border-bottom-left-radius: 3%;
+    box-shadow: 1px 1px 21px black;
 }
 
 html{
@@ -39,6 +40,7 @@ html{
     padding: 2rem;
     display: flex;
     flex-direction: column;
+    box-shadow: 1px 1px 21px black;
 }
 
 .login h1{
